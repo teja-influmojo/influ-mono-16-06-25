@@ -1,0 +1,1 @@
+export const fetchData = async () => await fetch("/api/data");

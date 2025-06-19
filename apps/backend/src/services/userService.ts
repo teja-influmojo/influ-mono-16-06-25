@@ -1,0 +1,1 @@
+export const getAllUsers = async () => [{ id: 1, name: "User" }];

@@ -1,0 +1,1 @@
+resource "aws_db_instance" "default" { allocated_storage = 20 engine = "postgres" instance_class = "db.t3.micro" name = "influencer" username = "admin" password = "password123" skip_final_snapshot = true }

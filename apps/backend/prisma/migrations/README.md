@@ -1,0 +1,1 @@
+Prisma migration files will be auto-generated here.
